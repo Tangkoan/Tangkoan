@@ -37,25 +37,6 @@ I am a passionate **Backend Developer** based in **Cambodia** 🇰🇭. I specia
 
 ---
 
-### 📊 GitHub Statistics
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Tangkoan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tangkoan's GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangkoan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tangkoan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
