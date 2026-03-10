@@ -24,14 +24,14 @@ I am a passionate **Backend Developer** based in **Cambodia** 🇰🇭. I specia
 **Languages & Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,java,cpp,html,css" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,mysql,java,cpp,html,css" />
   </a>
 </p>
 
 **Tools & Environment**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,androidstudio" />
   </a>
 </p>
 
