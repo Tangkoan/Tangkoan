@@ -18,7 +18,3 @@ I am a passionate Backend Developer based in Cambodia. I specialize in building 
 - 📧 **Email:** kuytangkoan@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/kuy-tangkoan
 - 🌐 **Portfolio:** https://kuytangkoan.online
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
