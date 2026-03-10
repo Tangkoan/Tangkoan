@@ -12,18 +12,6 @@ I am a passionate Backend Developer based in Cambodia. I specialize in building 
 - 📖 **Learning:** Currently exploring advanced software architecture and microservices.
 
 ### 🛠️ Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,java,cpp,html,css,git,github,postman,linux" />
-  </a>
-</p>
-
-### 📈 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tangkoan&show_icons=true&theme=tokyonight&hide_border=true" alt="Tangkoan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangkoan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ### 📬 Connect with Me
