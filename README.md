@@ -1,4 +1,4 @@
-# Hi there, I'm **Kuy Tangkoan**! 🚀
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/08e002e7-d888-4b80-b23c-f398b2fbe5ec" /># Hi there, I'm **Kuy Tangkoan**! 🚀
 **Backend Developer | Specialized in Laravel & API Architecture**
 
 <p align="left">
@@ -24,7 +24,7 @@ I am a passionate **Backend Developer** based in **Cambodia** 🇰🇭. I specia
 **Languages & Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,mysql,java,SpringBoot,cpp,html,css" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,mysql,java,springboot,cpp,html,css" />
   </a>
 </p>
 
