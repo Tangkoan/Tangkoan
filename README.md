@@ -1,14 +1,3 @@
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/08e002e7-d888-4b80-b23c-f398b2fbe5ec" /># Hi there, I'm **Kuy Tangkoan**! 🚀
-**Backend Developer | Specialized in Laravel & API Architecture**
-
-<p align="left">
-<a href="https://www.linkedin.com/in/kuy-tangkoan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:kuytangkoan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://kuytangkoan.online" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
-</p>
-
----
-
 ### 👨‍💻 About Me
 I am a passionate **Backend Developer** based in **Cambodia** 🇰🇭. I specialize in building robust, scalable, and dynamic web applications. My expertise lies in creating efficient server-side logic and seamless API integrations to solve real-world problems.
 
@@ -24,7 +13,7 @@ I am a passionate **Backend Developer** based in **Cambodia** 🇰🇭. I specia
 **Languages & Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,mysql,java,springboot,cpp,html,css" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,mysql,java,spring,cpp,html,css" />
   </a>
 </p>
 
