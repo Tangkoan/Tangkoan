@@ -13,7 +13,7 @@ I am a passionate **Backend Developer** based in **Cambodia** 🇰🇭. I specia
 **Languages & Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,mysql,java,spring,cpp,html,css,tailwind,ThinkPHP" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,mysql,html,css,tailwind,ThinkPHP" />
   </a>
 </p>
 
