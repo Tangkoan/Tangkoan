@@ -20,7 +20,7 @@ I am a passionate **Backend Developer** based in **Cambodia** 🇰🇭. I specia
 **Tools & Environment**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,androidstudio,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,androidstudio,figma,navigate" />
   </a>
 </p>
 
