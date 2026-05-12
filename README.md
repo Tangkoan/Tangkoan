@@ -1,10 +1,10 @@
 ### 👨‍💻 About Me
-I am a passionate **Backend Developer** based in **Cambodia** 🇰🇭. I specialize in building robust, scalable, and dynamic web applications. My expertise lies in creating efficient server-side logic and seamless API integrations to solve real-world problems.
+I am a passionate Full-Stack Developer based in Cambodia. I specialize in building robust, scalable, and dynamic applications. My expertise lies in creating efficient server-side logic with Laravel and seamless RESTful API integrations, while currently expanding my skills into Mobile Development (Flutter).
 
 - 🛠️ **Current Focus:** Developing complex **Point of Sale (POS)** and Management Systems.
 - 🌐 **Expertise:** Crafting high-performance web applications using **Laravel**.
 - 🏗️ **Architecture:** Designing clean database schemas and RESTful APIs.
-- 📖 **Learning:** Exploring advanced software architecture and Microservices.
+- 📱 Learning: Mastering Flutter & Dart for cross-platform mobile development.
 
 ---
 
