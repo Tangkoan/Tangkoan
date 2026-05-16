@@ -22,8 +22,7 @@ I am a passionate Full-Stack Developer based in Cambodia. I specialize in buildi
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,androidstudio,figma,cloudflare" />
   </a>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"​ style="background-color: red," width="46" height="46" alt="DigitalOcean" />
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="36" height="36" alt="DigitalOcean" style="background-color: #242938; padding: 6px; border-radius: 14px;" />
 </p>
 
 ---
