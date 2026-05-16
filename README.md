@@ -20,8 +20,11 @@ I am a passionate Full-Stack Developer based in Cambodia. I specialize in buildi
 **Tools & Environment**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,androidstudio,figma,navicat,cloudflare,digitalocean" />
+    <!-- លុប digitalocean ចេញពីទីនេះ -->
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,androidstudio,figma,navicat,cloudflare" align="center" />
   </a>
+  <!-- បន្ថែមអាយខុន DigitalOcean ពី Devicon ដោយកំណត់ទំហំឱ្យប៉ុនគ្នា -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48" align="center" alt="DigitalOcean" />
 </p>
 
 ---
