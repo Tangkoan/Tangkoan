@@ -20,7 +20,7 @@ I am a passionate Full-Stack Developer based in Cambodia. I specialize in buildi
 **Tools & Environment**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,androidstudio,figma,navicat" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,androidstudio,figma,navicat,cloudflare,digitalocean" />
   </a>
 </p>
 
